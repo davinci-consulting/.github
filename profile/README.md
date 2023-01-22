@@ -18,12 +18,12 @@ We are managing via GitOps-approach our websites, this are:
 - https://cats.sahin.software
 - https://docs.sahin.software
 - https://git.sahin.software
+- https://hrm.sahin.software
 - https://intern.sahin.software
-- https://kanboard.sahin.software
 - https://mail.sahin.software
 - https://mfa.sahin.software
 - https://sahin.software
-- https://time.sahin.software
+- https://scrum.sahin.software
 
 ------------
 
