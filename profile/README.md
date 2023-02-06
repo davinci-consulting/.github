@@ -15,6 +15,8 @@ We are one of a leading IT service provider in the world. We are committed to he
 We are managing via GitOps-approach our websites, this are:
 
 - https://admin.sahin.software
+- https://calendar.sahin.software
+- https://chat.sahin.software 
 - https://docs.sahin.software
 - https://git.sahin.software
 - https://hrm.sahin.software
