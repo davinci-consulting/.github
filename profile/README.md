@@ -19,6 +19,7 @@ We are managing via GitOps-approach our websites, this are:
 - https://git.sahin.software
 - https://hrm.sahin.software
 - https://intern.sahin.software
+- https://invoice.sahin.software
 - https://mail.sahin.software
 - https://mfa.sahin.software
 - https://sahin.software
