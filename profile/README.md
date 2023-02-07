@@ -3,7 +3,7 @@
 
 **We are an it-consulting company.**
 
-_Owning more than hundred years experience in all area of it._
+_Owning more than hundred years experience in all areas of IT._
 
 We aim to be one of the leading IT service providers in the world and are working non stop on delivering the required service and value to our customers. We are committed in helping our customers achieve their business goals through innovative ideas, forward-thinking strategies, and perfectly tailored IT solutions.
 
