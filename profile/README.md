@@ -1,4 +1,5 @@
-# websites of sahin.software ltd. (LLC) - it consulting.
+# websites of davinci-consulting.net ltd. (LLC) - it consulting.
+
 
 **We are an it-consulting company.**
 
@@ -8,29 +9,26 @@ A company's most valuable asset is its people. We are proud to have a highly mot
 
 We are one of a leading IT service provider in the world. We are committed to helping our customers achieve their business goals through innovative ideas, forward-thinking strategies, and perfectly tailored IT solutions. Our success is built on the foundation of our people – we would be nothing without the hard work and dedication of our talented team members. If you're looking for an exciting career opportunity with a company that values its employees.
 
-------------
+-------------
 
-[![🚀 Deploy website on push](https://github.com/sahin-software/websites/actions/workflows/main.yml/badge.svg)](https://github.com/sahin-software/websites/actions/workflows/main.yml)
+[![🚀 Deploy website on push](https://github.com/davinci-consulting/websites/actions/workflows/main.yml/badge.svg)](https://github.com/davinci-consulting/websites/actions/workflows/main.yml)
 
 We are managing via GitOps-approach our websites, this are:
 
-- https://admin.sahin.software
-- https://calendar.sahin.software
-- https://chat.sahin.software 
-- https://docs.sahin.software
-- https://git.sahin.software
-- https://hrm.sahin.software
-- https://intern.sahin.software
-- https://invoice.sahin.software
-- https://mail.sahin.software
-- https://mfa.sahin.software
-- https://sahin.software
-- https://scrum.sahin.software
-
-------------
+- https://admin.davinci-consulting.net
+- https://calendar.davinci-consulting.net
+- https://chat.davinci-consulting.net 
+- https://docs.davinci-consulting.net
+- https://git.davinci-consulting.net
+- https://hrm.davinci-consulting.net
+- https://intern.davinci-consulting.net
+- https://invoice.davinci-consulting.net
+- https://mail.davinci-consulting.net
+- https://mfa.davinci-consulting.net
+- https://davinci-consulting.net
+- https://scrum.davinci-consulting.net
 
 # Services we are offering
-
 
 - Project-Management
 - Cloud-Computing
@@ -40,4 +38,3 @@ We are managing via GitOps-approach our websites, this are:
 - SEO Optimization
 - Coaching
 - Pentesting & Cyber-Security and Auditing
-
