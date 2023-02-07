@@ -5,9 +5,9 @@
 
 _Owning more than hundred years experience in all area of it._
 
-A company's most valuable asset is its people. We are proud to have a highly motivated and qualified team that supports our customers in reaching their goals. Our team members have the right mix of technological expertise and deep understanding of customer businesses. They work diligently every day to ensure our customers' projects are successful.
+We aim to be one of the leading IT service providers in the world and are working non stop on delivering the required service and value to our customers. We are committed in helping our customers achieve their business goals through innovative ideas, forward-thinking strategies, and perfectly tailored IT solutions.
 
-We are one of a leading IT service provider in the world. We are committed to helping our customers achieve their business goals through innovative ideas, forward-thinking strategies, and perfectly tailored IT solutions. Our success is built on the foundation of our people – we would be nothing without the hard work and dedication of our talented team members. If you're looking for an exciting career opportunity with a company that values its employees.
+Our success is built on the passion of our people – we would be nothing without the hard work and dedication of our talented team members. We value team-work and was able to create a great atmosphere and team-spirit for which we continuously look to expand it with talented new work colleagues.
 
 -------------
 
