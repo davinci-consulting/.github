@@ -19,6 +19,7 @@ We are managing via GitOps-approach our websites, this are:
 - https://calendar.davinci-consulting.net
 - https://chat.davinci-consulting.net 
 - https://docs.davinci-consulting.net
+- https://files.davinci-consulting.net
 - https://git.davinci-consulting.net
 - https://hrm.davinci-consulting.net
 - https://intern.davinci-consulting.net
